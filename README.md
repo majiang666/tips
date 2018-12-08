@@ -1,3 +1,4 @@
+![小程序](https://www.love85g.com/wp-content/uploads/2018/12/xcx.jpg)
 # tips ==> 欢迎关注小程序，搜索 【前端之战】
 jquery封装了一个自己常用的提示插件。
 
